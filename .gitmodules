@@ -1,0 +1,3 @@
+[submodule "src/component/TextInfinite"]
+	path = src/component/TextInfinite
+	url = https://github.com/jspolancor/TextInfinite.git
