@@ -1,3 +1,6 @@
 [submodule "src/component/TextInfinite"]
 	path = src/component/TextInfinite
 	url = https://github.com/jspolancor/TextInfinite.git
+[submodule "src/directive/parallaxer"]
+	path = src/directive/parallaxer
+	url = https://github.com/jspolancor/vue-directive-parallaxer.git

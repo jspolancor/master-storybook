@@ -6,11 +6,11 @@ import { withNotes } from '@storybook/addon-notes';
 import Centered from '@storybook/addon-centered';
 import TextInfinite from '../src/component/TextInfinite';
 
-storiesOf('Tests', module)
+storiesOf('Component infinite text', module)
   .addDecorator(withKnobs)
   .addDecorator(withNotes)
   .addDecorator(Centered)
-  .add('Test', () => ({
+  .add('Infinite text', () => ({
     data: () => ({
       textToShow: text('Text to show', 'Lorem ipsum dolor sit amet'),
       acceleration: number('Acceleration', 0),
