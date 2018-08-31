@@ -9,7 +9,7 @@ Object.keys(directive).forEach(key => Vue.directive(key, directive[key]));
 
 
 
-storiesOf('Parallaxer', module)
+storiesOf('Directive Parallaxer', module)
   .addDecorator(withKnobs)
   .addDecorator(withNotes)
   .addDecorator(Centered)
