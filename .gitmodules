@@ -4,3 +4,15 @@
 [submodule "src/directive/parallaxer"]
 	path = src/directive/parallaxer
 	url = https://github.com/jspolancor/vue-directive-parallaxer.git
+[submodule "src/component/VideoPlayer"]
+	path = src/component/VideoPlayer
+	url = https://github.com/nicofonseca/vue-component-video-player.git
+[submodule "src/component/AudioPlayer"]
+	path = src/component/AudioPlayer
+	url = https://github.com/nicofonseca/vue-component-audio-player.git
+[submodule "src/directive/iosBounceFixer"]
+	path = src/directive/iosBounceFixer
+	url = https://github.com/nicofonseca/vue-directive-ios-bounce-fixer.git
+[submodule "src/component/SimpleHeader"]
+	path = src/component/SimpleHeader
+	url = https://github.com/nicofonseca/vue-component-simple-header.git
