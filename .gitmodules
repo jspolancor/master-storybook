@@ -16,3 +16,6 @@
 [submodule "src/component/SimpleHeader"]
 	path = src/component/SimpleHeader
 	url = https://github.com/nicofonseca/vue-component-simple-header.git
+[submodule "src/component/countdownTimer"]
+	path = src/component/countdownTimer
+	url = https://github.com/jspolancor/vue-component-countdown-timer.git
